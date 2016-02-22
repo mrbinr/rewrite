@@ -4,7 +4,6 @@ This bundle is used to rewrite string replacing all specials characters.
 
 ### Installation
 
-You need Gulp installed globally:
 
 ```sh
 $ composer require mrbinr/rewrite
